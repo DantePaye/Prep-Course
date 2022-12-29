@@ -1,10 +1,19 @@
 1. Variables:
+Usamos una variable para almacenar algo en dicha variable y despues podemos recuperar ese valor.
 
+Existen diferentes tipos de variables y son los siguientes:
+- Numbers.
+- String.
+- Booleanos.
 
 2. Strings:
+Básicamente son letras o hilos de letras, una letra tras otra que pueden formar palabras. SIempre se definen entre comillas"".
 
 3. Funciones (argumentos, `return`):
+Es un objeto el cual tiene diferentes instricciones para queno devuelva un valor, este objeto puede ser llamado en cualquier momento.
+
 
 4. Declaraciones `if`:
 
 5. Valores booleanos (`true`, `false`):
+Son balores binarios, que solo pueden tener dos valores posibles tales como; verdarero o falso, 0 o 1, etc.
