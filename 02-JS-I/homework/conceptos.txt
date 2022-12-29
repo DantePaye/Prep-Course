@@ -1,0 +1,10 @@
+1. Variables:
+
+
+2. Strings:
+
+3. Funciones (argumentos, `return`):
+
+4. Declaraciones `if`:
+
+5. Valores booleanos (`true`, `false`):
