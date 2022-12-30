@@ -12,8 +12,9 @@ Básicamente son letras o hilos de letras, una letra tras otra que pueden formar
 3. Funciones (argumentos, `return`):
 Es un objeto el cual tiene diferentes instricciones para queno devuelva un valor, este objeto puede ser llamado en cualquier momento.
 
-
 4. Declaraciones `if`:
+Con el contros de flujo "if", funciona como el condicional "si".
+Si se cumple una determinada condición se ejecutará un codigo.
 
 5. Valores booleanos (`true`, `false`):
 Son balores binarios, que solo pueden tener dos valores posibles tales como; verdarero o falso, 0 o 1, etc.
